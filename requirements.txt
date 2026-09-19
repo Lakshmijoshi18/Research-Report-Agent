@@ -1,0 +1,7 @@
+streamlit
+google-genai
+duckduckgo-search
+requests
+beautifulsoup4
+markdown2
+xhtml2pdf
