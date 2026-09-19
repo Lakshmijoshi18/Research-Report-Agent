@@ -2,7 +2,7 @@
 
 An autonomous AI agent that takes any topic, researches it live on the web, and generates a clean, structured report in seconds — built as a hands-on project to learn agentic AI architecture (plan → act → observe → synthesize).
 
-**Live demo:** [Add your Streamlit Cloud link here once deployed]
+**Live demo:** https://research-report-agent-tt45yk7byvy9dytsd8vupg.streamlit.app
 
 ## What it does
 
@@ -59,7 +59,7 @@ Streamlit UI ──► displayed + downloadable as PDF
 
 **1. Clone this repo**
 ```bash
-git clone https://github.com/your-username/research-report-agent.git
+git clone https://github.com/Lakshmijoshi18/research-report-agent.git
 cd research-report-agent
 ```
 
